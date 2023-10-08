@@ -4,7 +4,6 @@ const main = document.querySelector("main");
 const success = document.querySelector("#success");
 const form = document.querySelector("#form");
 const email = form.querySelector("#email");
-// const input = document.querySelector("#email");
 const invalidEmail = document.querySelector("#invalid-email");
 const submitButton = document.querySelector("#submit-btn");
 const submittedEmail = document.querySelector("#submitted-email");
